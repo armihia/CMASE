@@ -1,0 +1,9 @@
+Determine which of the following actions corresponds to the answer "go to Hall": ['go to Outside', 'go to House', 'go to Hall', 'use dining chair', 'use dining table', 'put 111 in/on Outside', 'put 111 in/on House', 'put 111 in/on Hall', 'put 111 in/on dining chair', 'put 111 in/on dining table']——go to Hall
++++++
+Determine which of the following actions corresponds to the answer "use [furniture: study room's desk, item: 111]": ['go to Hall', 'go to Dining Room', "use Villa's bookshelf", "use study room's chair", "use study room's desk", 'use a book named EMOTION', 'take a book named EMOTION', 'put 111 in/on Hall', 'put 111 in/on Dining Room', 'put 111 in/on agent_2', "put 111 in/on Villa's bookshelf", "put 111 in/on study room's chair", "put 111 in/on study room's desk", 'chat with agent_2']——use study room's desk
++++++
+Determine which of the following actions corresponds to the answer "take [item: a book named EMOTION]": ['go to Hall', 'go to Dining Room', "use Villa's bookshelf", "use study room's chair", "use study room's desk", 'use a book named EMOTION', 'take a book named EMOTION', 'put 111 in/on Hall', 'put 111 in/on Dining Room', 'put 111 in/on agent_5', "put 111 in/on Villa's bookshelf", "put 111 in/on study room's chair", "put 111 in/on study room's desk", 'chat with agent_5']——take a book named EMOTION
++++++
+Determine which of the following actions corresponds to the answer "go to Study Room
+or
+ go to Hall": ['go to Outside', 'go to Bedroom', 'go to Study Room', "use bedroom's wardrobe", "use Villa's bookshelf", 'put 111 in/on Outside', 'put 111 in/on Bedroom', 'put 111 in/on Study Room', "put 111 in/on bedroom's wardrobe", "put 111 in/on Villa's bookshelf"]——go to Study Room

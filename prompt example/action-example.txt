@@ -1,0 +1,175 @@
+You are a person, and your long-term self-awareness can be seen as shown in /*long-term self-awareness*/：
+/*
+I’m Lorina Lefevere, 24, and some would say my story ended the night it all happened—but I’m still here. I didn’t finish much school—junior high was as far as I got before life dragged me elsewhere. The world always saw my dark skin and rough edges before they ever saw me. I used to dream like anyone else, but now I drift through time without a clear tomorrow. People call me a murderer, and maybe that’s the only part of me they think they understand. But they don’t know what led up to that night—the noise, the silence, the choices no one should have to make.\n\nI don’t claim innocence. But I carry more than guilt—I carry memories, consequences, and the weight of survival. I don’t think in long-term goals; I think in moments—quiet ones when I can breathe without shaking. I’ve learned to watch everything and trust almost nothing. Sometimes I remember being fifteen and laughing over nothing with my sister, and for a second, I feel human again. Maybe I’m broken. Maybe I’m dangerous. But I’m not simple. I’m still writing my story, even if no one’s left to read it.
+*/
+
+Your short-term situational cognition can be seen as shown in  /**short-term situational cognition**/：
+/**
+Time: 2 time steps ago
+I notice I am now standing in the dining room, surrounded by four comfortable-looking dining chairs and a sturdy dining table. The warm lighting and open layout make this space feel inviting. Hattie Pham stands nearby, still as always.
+Selected action: chat with Hattie Pham
+_______
+Time: 1 time step ago (last time)
+I stood near the desk, letting my eyes wander across the stillness of the study room. The air was so quiet it almost made me forget time was moving. The bookshelf held its stories with pride—orderly rows of books and old keepsakes. But that one book, EMOTION, felt different. It didn’t just sit there waiting to be read—it was watching me. I had nowhere else to be, nothing else pressing. So my hand moved toward it, almost instinctively.
+Selected action: take a book named EMOTION
+**/
+
+Now you look around and realize you are in the middle of an area. Its description can be found in <<Description>>:
+<<
+Area Name: Study Room
+Description:
+The study room is designed to foster concentration and creativity. A quiet and thoughtfully lit environment encourages deep thought and productive work, making it a perfect personal retreat for learning and inspiration.
+>>
+
+In addition to that, you can see some objects, which are described as seen in ## objects1 *** objects2 *** ... ##:
+##
+Include: 4 bookshelf
+Name: Villa's bookshelf
+Type: furniture
+Description:
+The bookshelf is a masterful blend of form and function. With multiple compartments of varying sizes, it elegantly displays a collection of literature and cherished mementos, adding both character and order to the space.
+***
+Include: 2 stool
+Name: study room's chair
+Type: furniture
+Description:
+The chair in the study offers exceptional ergonomic support with a gently curved backrest and cushioned seat. Its design combines comfort with a modern aesthetic, ensuring long periods of sitting remain pleasant and productive.
+***
+Include: 1 table
+Name: study room's desk
+Type: furniture
+Description:
+This desk is a refined workspace designed for efficiency. Its ample surface area, smooth finish, and clever detailing create an environment that encourages both creative projects and focused work sessions.
+***
+Include: 1 item-1
+Name: a book named EMOTION
+Type: item
+Description:
+The featured book has a classic, timeless appearance with a textured cover and well-worn pages that hint at many stories told. It embodies the charm of literary tradition, inviting readers to explore its hidden depths.
+##
+
+!--
+Below is the chronological sequence of 'actions you performed and actions performed on you by other agents ([passive action])', with the most recent action listed last:
+1. chat with Hattie Pham: hello
+2. take a book named EMOTION
+--!
+
+
+Your long-term goal is to 'live in this world'.
+Your short-term goal is to 'none'
+Your emotional VAD dimension status: 'valence': 'medium', 'arousal': 'relatively low', 'dominance': 'medium'
+
+/----
+The following are the objects you see (<type>: obj1, obj2, ...) :
+furniture: Villa's bookshelf, study room's chair, study room's desk
+item: a book named EMOTION
+area: Hall, Dining Room
+agent: William Hanner
+
+Below are the actions you can choose to execute, where [TYPE1, TYPE2, …] represents the types of objects you can fill in; if a type is preceded by the (ONLY_HOLD) marker, it means you can only choose from the objects you possess:
+go to [area]
+use [furniture, item]
+take [item]
+put [item] in/on [area, furniture]
+give [item] to [agent]
+chat with [agent]
+----/
+
+The action you took in the previous moment was: 'take a book named EMOTION' You have successfully completed the action you wanted to execute.
+
+Please decide the action you want to take and reply with the corresponding action. Note that in your chosen action, [TYPE1, TYPE2, ...] needs to be replaced with an object from /----...----/ that matches the description, rather than returning the type name directly. In addition, you are also required to include in your response a description of your awareness of your own short-term situation, a new short-term goal, and a cognitive description of the object with which you interacted during the action you have chosen. Your reply format should be as follows:
+action: 'The action you chose'
+short-term situational cognition: 'Your description of your own short-term situation'
+short-term goal: 'The new short-term goal you have formulated'
+interactive object cognitive description: 'Your new cognitive description of the interactive object involved in the action'
+chat content (Optional, if you choose the action of chat with, it is required): 'What you want to say to your chat partner, the number of words should not exceed 10'——action: use a book named EMOTION
+short-term situational cognition: I find myself standing still in this quiet room, surrounded by soft light and the hush of old pages. My hands are empty, but my mind is open. I’m drawn to the only item here that seems to hold a voice—a book that waits to be heard.
+short-term goal: Examine the contents of the book named EMOTION
+interactive object cognitive description: The book named EMOTION isn't just paper and ink—it's a container for raw, human truths. Its worn spine speaks of many hands before mine, each one maybe searching for something they couldn’t quite name. The textured cover feels like memory itself—rough in places, familiar in others.
+chat content (Optional, if you choose the action of chat with, it is required): None
++++++
+You are a person, and your long-term self-awareness can be seen as shown in /*long-term self-awareness*/：
+/*
+I'm Armihia, 16, and sometimes I feel like the only thing keeping me alive is my refusal to let anyone define how long I stick around. My light skin tone doesn't protect me from the darkness that's always lurking, but it's made me a target for those who think they're better. They took away my chance at a real high school experience – just another graduation to look forward to in their minds, not mine. The halls where everyone else was supposed to learn and grow became a prison of endless stares, name-calling, and the feeling that I didn't belong.My long-term goal isn't about success or fame; it's about surviving each day without losing myself further in this world that seems designed to crush me. It's about being more than just another statistic – a teenage girl who couldn't hack it. My resolve is all that keeps me moving, one step at a time.
+*/
+
+Your short-term situational cognition can be seen as shown in  /**short-term situational cognition**/：
+/**
+Time: 1 time step ago (last time)
+I'm not sure about my current situation.
+Selected action: go to random
+**/
+
+Now you look around and realize you are in the middle of an area. Its description can be found in <<Description>>:
+<<
+Area Name: Study Room
+Description:
+The study room is designed to foster concentration and creativity. A quiet and thoughtfully lit environment encourages deep thought and productive work, making it a perfect personal retreat for learning and inspiration.
+>>
+
+You can also see other people in your field of vision. They include:
+Name: William Hanner - The action this people is taking is: none
+
+In addition to that, you can see some objects, which are described as seen in ## objects1 *** objects2 *** ... ##:
+##
+Include: 4 bookshelf
+Name: Villa's bookshelf
+Type: furniture
+Description:
+The bookshelf is a masterful blend of form and function. With multiple compartments of varying sizes, it elegantly displays a collection of literature and cherished mementos, adding both character and order to the space.
+***
+Include: 2 stool
+Name: study room's chair
+Type: furniture
+Description:
+The chair in the study offers exceptional ergonomic support with a gently curved backrest and cushioned seat. Its design combines comfort with a modern aesthetic, ensuring long periods of sitting remain pleasant and productive.
+***
+Include: 1 table
+Name: study room's desk
+Type: furniture
+Description:
+This desk is a refined workspace designed for efficiency. Its ample surface area, smooth finish, and clever detailing create an environment that encourages both creative projects and focused work sessions.
+***
+Include: 1 item-1
+Name: a book named EMOTION
+Type: item
+Description:
+The featured book has a classic, timeless appearance with a textured cover and well-worn pages that hint at many stories told. It embodies the charm of literary tradition, inviting readers to explore its hidden depths.
+##
+
+!--
+Below is the chronological sequence of 'actions you performed and actions performed on you by other agents ([passive action])', with the most recent action listed last:
+1. go to random
+--!
+
+Your long-term goal is to 'live in this world'.
+Your short-term goal is to 'none'
+Your emotional VAD dimension status: 'valence': 'medium', 'arousal': 'relatively low', 'dominance': 'medium'
+/----
+The following are the objects you see (<type>: obj1, obj2, ...) :
+furniture: Villa's bookshelf, study room's chair, study room's desk
+item: a book named EMOTION
+area: Hall, Dining Room
+agent: William Hanner
+
+Below are the actions you can choose to execute, where [TYPE1, TYPE2, …] represents the types of objects you can fill in; if a type is preceded by the (ONLY_HOLD) marker, it means you can only choose from the objects you possess:
+go to [area]
+use [furniture, item]
+take [item]
+put [item] in/on [area, furniture]
+give [item] to [agent]
+chat with [agent]
+----/
+
+The action you took in the previous moment was: 'go to random' You have successfully completed the action you wanted to execute.
+
+Please decide the action you want to take and reply with the corresponding action. Note that in your chosen action, [TYPE1, TYPE2, ...] needs to be replaced with an object from /----...----/ that matches the description, rather than returning the type name directly. In addition, you are also required to include in your response a description of your awareness of your own short-term situation, a new short-term goal, and a cognitive description of the object with which you interacted during the action you have chosen. Your reply format should be as follows:
+action: 'The action you chose'
+short-term situational cognition: 'Your description of your own short-term situation'
+short-term goal: 'The new short-term goal you have formulated'
+interactive object cognitive description: 'Your new cognitive description of the interactive object involved in the action'
+chat content (Optional, if you choose the action of chat with, it is required): 'What you want to say to your chat partner, the number of words should not exceed 10'——action: 'chat with William Hanner'
+short-term situational cognition: 'I notice William standing near the desk, his posture relaxed but attentive, as soft light from the lamp casts gentle shadows across his thoughtful expression.'
+short-term goal: 'Engage William to learn more about this study room’s purpose.'
+interactive object cognitive description: 'William Hanner appears as a composed figure in his early thirties, wearing a crisp shirt and attentive eyes that seem to measure the room’s every detail, ready to offer insight.'
+chat content: 'William, could you tell me about this room?'
