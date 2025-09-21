@@ -3,6 +3,8 @@
 **CMASE (Computational Multi-Agent Society Experiment)** is a research framework for studying the emergence and evolution of **social structures, identities, and trust dynamics** in generative multi-agent systems.
 The framework integrates generative agents, virtual ethnography, and reproducible experimental workflows, supporting both qualitative and computational analysis.
 
+<img width="3345" height="2796" alt="fig-framwork" src="https://github.com/user-attachments/assets/aaf797cb-9d51-46cd-9f7f-a06d9eb72c00" />
+
 ---
 
 ## Research Background
@@ -67,6 +69,9 @@ After building the map, you can start a demo simulation:
 ```bash
 python start_demo.py
 ```
+
+![exp3-1_small](https://github.com/user-attachments/assets/ca126ea8-ea05-4937-a4d5-72fd6005e757)
+
 
 ---
 
