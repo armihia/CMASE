@@ -59,6 +59,9 @@ You must also build a map before running a simulation. Use the provided script:
 ```bash
 python build_map_demo.py
 ```
+A video demonstration of the environment setup is shown below:
+
+https://github.com/user-attachments/assets/2b52f1ad-01b3-40db-b966-effce8d468cf
 
 ---
 
@@ -69,9 +72,9 @@ After building the map, you can start a demo simulation:
 ```bash
 python start_demo.py
 ```
+A video demonstration of the simulation execution is shown below:
 
-![exp3-1_small](https://github.com/user-attachments/assets/ca126ea8-ea05-4937-a4d5-72fd6005e757)
-
+https://github.com/user-attachments/assets/2b445631-122f-4605-b673-0db3a10f12a1
 
 ---
 
